@@ -1,7 +1,7 @@
 # The Coqui Website - The Native Frog of Puerto Rico
 
 <p align="center">
-  <img src="https://github.com/The-Coqui/The-Coqui/blob/82d5fa09d76c7e5ae1ad9f719b2bdf41407048f3/TheCoqui.jpg" width="1500" height ="300">
+  <img src="https://github.com/irllyliketoast/The-Coqui/blob/82d5fa09d76c7e5ae1ad9f719b2bdf41407048f3/TheCoqui.jpg" width="1500" height ="300">
 </p>
 
 ## Project Overview
