@@ -1,2 +1,2 @@
 # TheCoqui
-Mini-project for my MIS class
+Mini project for my MIS class. 
