@@ -1,5 +1,9 @@
 # The Coqui Website - The Native Frog of Puerto Rico
 
+<p align="center">
+  <img src="https://github.com/The-Coqui/The-Coqui/blob/82d5fa09d76c7e5ae1ad9f719b2bdf41407048f3/TheCoqui.jpg" width="1500" height ="300">
+</p>
+
 ## Project Overview
 This is a mini project created for the Management Information Systems (MIS) class. The website focuses on the Coqui, a native frog of Puerto Rico, and explores its cultural and ecological significance. 
 This was meant to test my HTML and CSS skills early on in the class.
