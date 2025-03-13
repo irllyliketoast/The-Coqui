@@ -1,0 +1,73 @@
+/* General page styles */
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #f0f0f0; /* Light gray background for the whole page */
+    color: #333333; /* Dark gray font color for readability */
+    margin: 0;
+    padding: 0;
+    padding-left: 20px; /* Add padding to the left side of the page */
+    padding-right: 20px; /* Add padding to the right side of the page */
+}
+
+header {
+    background-color: #00A86B; /* Jade green background for the header */
+    color: white; /* White font color for the header */
+    padding: 20px 0; /* Only vertical padding for the header */
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box; /* Ensures padding doesn’t affect width */
+}
+
+h1.title {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.image-container {
+    text-align: center; /* This centers the image */
+    padding-top: 20px;  /* Adjust the value as needed to add padding on top of the image */
+}
+
+.image {
+    max-width: 100%; /* Ensures the image is responsive */
+    height: auto; /* Maintains aspect ratio */
+}
+
+
+h2 {
+    color: #00A86B; /* Jade green color for the subheading */
+    text-align: center; /* Center the subheading */
+}
+
+h3 {
+    text-align: center; /* Center the h3 heading */
+    color: #333333; /* Dark color for h3 */
+    margin-top: 30px;
+}
+
+.facts-list {
+    list-style-position: inside; /* Ensures bullets align with text */
+    margin: 20px auto; /* Center the list and add top/bottom margin */
+    padding: 10px;
+    border: 2px solid #00A86B; /* Jade green border for the list */
+    background-color: #eaf9f0; /* Light jade background for the list */
+    width: 80%; /* Make the list width 80% of the parent */
+    text-align: left; /* Align text to the left, but center the list */
+}
+
+.facts-list li {
+    margin-bottom: 10px;
+}
+
+/* Center the paragraphs */
+p {
+    text-align: center; /* Center the paragraphs */
+    margin: 20px 0; /* Add margin above and below paragraphs */
+}
+
+/* Padding only for the sections, excluding header */
+section {
+    padding-left: 20px; /* Padding on the left of the section */
+    padding-right: 20px; /* Padding on the right of the section */
+}
