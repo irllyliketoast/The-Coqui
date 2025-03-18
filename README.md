@@ -5,7 +5,7 @@
 </p>
 
 ## Project Overview
-This is a mini project created for my Management Information Systems (UNCW MIS 310) class. The website focuses on the Coqui, a native frog of Puerto Rico, and explores its cultural and ecological significance. 
+This is a mini-project created for my Management Information Systems (UNCW MIS 310) class. The website focuses on the Coqui, a native frog of Puerto Rico, and explores its cultural and ecological significance. 
 This was meant to test my HTML and CSS skills early on in the class.
 The project aims to showcase the unique features of the Coqui frog, including its role in Puerto Rican identity and the symbolism behind its displacement due to gentrification and environmental change.
 
